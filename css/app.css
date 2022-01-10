@@ -1,0 +1,10 @@
+a, p, img, h1, h2, h3, section, div{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    width: 100%;
+    margin: 0;
+}
